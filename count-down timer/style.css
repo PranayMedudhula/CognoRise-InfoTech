@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: #555;
+}
+h1{
+    color: beige;
+    font-size: 40px;
+
+}
+table{
+    margin: auto;
+}
+th {
+    color: beige;
+}
+input {
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 20px;
+}
+button {
+    min-width: 120px;
+    margin: 20px 10px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: beige;
+    font-weight: 700;
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+}
+.heading {
+    color: beige;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.Time {
+    background-color: black;
+    color: beige;
+    font-size: 100px;
+    width: 150px;
+    margin: 0 10px;
+}
